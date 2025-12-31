@@ -1,0 +1,69 @@
+restaurant_id,restaurant_name,city,opening_hours
+1,The Bombay Canteen,Mumbai,10:00 AM - 11:00 PM
+2,Leopold Cafe,Mumbai,9:00 AM - 12:00 AM
+3,Bademiya,Mumbai,6:00 PM - 3:00 AM
+4,Ziya,Mumbai,12:00 PM - 11:00 PM
+5,Gajalee,Mumbai,11:00 AM - 11:00 PM
+6,Masala Library,Mumbai,"12:00 PM - 3:00 PM, 7:00 PM - 11:00 PM"
+7,Mahesh Lunch Home,Mumbai,11:30 AM - 11:45 PM
+8,Yauatcha,Mumbai,12:00 PM - 12:00 AM
+9,Britannia & Co.,Mumbai,12:00 PM - 4:00 PM
+10,Indigo,Mumbai,"12:00 PM - 3:30 PM, 7:00 PM - 11:45 PM"
+11,Indian Accent,Delhi,"12:00 PM - 2:30 PM, 7:00 PM - 10:30 PM"
+12,Karim’s,Delhi,9:00 AM - 12:00 AM
+13,Bukhara,Delhi,"12:30 PM - 2:45 PM, 7:00 PM - 11:45 PM"
+14,Moti Mahal,Delhi,12:00 PM - 11:30 PM
+15,SodaBottleOpenerWala,Delhi,11:00 AM - 11:30 PM
+16,Gulati,Delhi,11:30 AM - 11:30 PM
+17,Saravana Bhavan,Delhi,8:00 AM - 10:00 PM
+18,The Big Chill Cafe,Delhi,11:00 AM - 11:00 PM
+19,Farzi Cafe,Delhi,12:00 PM - 11:45 PM
+20,Lodi - The Garden Restaurant,Delhi,12:00 PM - 12:00 AM
+21,Perch Wine & Coffee Bar,Delhi,11:00 AM - 11:00 PM
+22,Diggin,Delhi,11:00 AM - 11:00 PM
+23,Social,Mumbai,11:00 AM - 1:30 AM
+24,Trishna,Mumbai,"12:00 PM - 3:30 PM, 7:00 PM - 11:30 PM"
+25,Oh! Calcutta,Kolkata,12:00 PM - 10:30 PM
+26,6 Ballygunge Place,Kolkata,"12:30 PM - 3:30 PM, 7:00 PM - 10:30 PM"
+27,Peter Cat,Kolkata,12:00 PM - 11:00 PM
+28,Barbeque Nation,Bangalore,"12:00 PM - 3:00 PM, 6:30 PM - 10:30 PM"
+29,Toit,Bangalore,12:00 PM - 11:30 PM
+30,Vidyarthi Bhavan,Bangalore,6:30 AM - 11:30 AM
+31,MTR,Bangalore,6:30 AM - 11:00 PM
+32,Smoke House Deli,Bangalore,11:00 AM - 11:00 PM
+33,Karavalli,Bangalore,"12:30 PM - 2:30 PM, 7:00 PM - 11:00 PM"
+34,Absolute Barbecue,Hyderabad,"12:00 PM - 3:00 PM, 6:30 PM - 10:30 PM"
+35,Paradise,Hyderabad,11:00 AM - 11:00 PM
+36,Chutneys,Hyderabad,7:00 AM - 11:00 PM
+37,Bawarchi,Hyderabad,12:00 PM - 11:30 PM
+38,Flechazo,Pune,"12:00 PM - 3:00 PM, 6:30 PM - 10:30 PM"
+39,Vaishali,Pune,7:00 AM - 11:00 PM
+40,Malaka Spice,Pune,12:00 PM - 11:00 PM
+41,Shiv Sagar,Pune,8:00 AM - 11:00 PM
+42,Barbeque Nation,Chennai,"12:00 PM - 3:00 PM, 6:30 PM - 10:30 PM"
+43,Annalakshmi,Chennai,"12:00 PM - 3:00 PM, 7:00 PM - 10:00 PM"
+44,Murugan Idli Shop,Chennai,6:00 AM - 11:00 PM
+45,Pind Balluchi,Chandigarh,12:00 PM - 11:30 PM
+46,Gopal’s,Chandigarh,7:00 AM - 10:00 PM
+47,Swagath,Bangalore,12:00 PM - 11:00 PM
+48,BBQ Factory,Noida,12:00 PM - 11:00 PM
+49,United Coffee House,Delhi,9:00 AM - 11:00 PM
+50,Hauz Khas Social,Delhi,11:00 AM - 1:30 AM
+51,Cafe Lota,Delhi,10:00 AM - 10:00 PM
+52,Imperfecto,Delhi,12:00 PM - 12:00 AM
+53,Ministry of Crab,Mumbai,12:00 PM - 11:00 PM
+54,Bastian,Mumbai,12:00 PM - 11:30 PM
+55,Pa Pa Ya,Mumbai,12:00 PM - 11:45 PM
+56,Taj Mahal Tea House,Mumbai,8:00 AM - 10:00 PM
+57,Cafe Madras,Mumbai,7:00 AM - 11:00 PM
+58,Sardar Pav Bhaji,Mumbai,6:00 PM - 12:00 AM
+59,Barbeque Central,Indore,12:00 PM - 10:30 PM
+60,Chappan Dukan Food Street,Indore,10:00 AM - 11:00 PM
+61,Oye24,Indore,11:00 AM - 11:00 PM
+62,Nafees,Indore,12:00 PM - 11:30 PM
+63,Apna Sweets,Bhopal,8:00 AM - 11:00 PM
+64,Manohar Dairy,Bhopal,7:30 AM - 11:00 PM
+65,Sharma & Vishnu,Bhopal,6:00 AM - 10:00 PM
+66,Under The Mango Tree,Bhopal,12:00 PM - 10:30 PM
+67,Hakeem,Bhopal,11:00 AM - 11:30 PM
+68,Za-aiqa,Bhopal,12:00 PM - 11:00 PM
